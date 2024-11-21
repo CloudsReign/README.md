@@ -1,4 +1,3 @@
-markdown 
 
 ## Certifications
 - **AWS Certified Solutions Architect – Associate**  
